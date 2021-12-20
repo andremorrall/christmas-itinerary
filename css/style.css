@@ -280,7 +280,7 @@ p {
 /* Media queries */
 
 /* Home - iPhone X - Portrait mode */
-@media (max-width: 375px) {
+@media (max-width: 390px) {
 
   /* Navbar */
   #navbar>div>ul {
@@ -404,7 +404,7 @@ p {
 }
 
 /* iPhone X - Landscape mode */
-@media (min-width: 376px) and (max-width: 812px) {
+@media (min-width: 391px) and (max-width: 844px) {
 
   /* Showcase */
   #showcase>.container>.showcase-content {
